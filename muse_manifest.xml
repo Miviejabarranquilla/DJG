@@ -1,0 +1,315 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="miviejabarranquilla.kesug.com" resolutions="1x" timestamp="1748014893960">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="4091186700" ref="eventos-y-festivales:contactos:historia:gracias:galería:index:arquitectura:sitios-turísticos:cultura-y-gastronomía"/>
+    <file name="eventos-y-festivales.css" crc="266891164" ref="eventos-y-festivales"/>
+    <file name="contactos.css" crc="3879282323" ref="contactos"/>
+    <file name="historia.css" crc="60483701" ref="historia"/>
+    <file name="gracias.css" crc="92214051" ref="gracias"/>
+    <file name="galer_a.css" crc="80924178" ref="galería"/>
+    <file name="index.css" crc="4189578602" ref="index"/>
+    <file name="arquitectura.css" crc="3898801365" ref="arquitectura"/>
+    <file name="sitios-tur_sticos.css" crc="303990071" ref="sitios-turísticos"/>
+    <file name="cultura-y-gastronom_a.css" crc="177661983" ref="cultura-y-gastronomía"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>historia:phone>galería:phone>contactos:tablet>index:tablet>historia:tablet>galería:tablet>contactos:index:historia:galería:contactos:cultura-y-gastronomía:eventos-y-festivales:arquitectura:sitios-turísticos:gracias"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>historia:phone>galería:phone>contactos:tablet>index:tablet>historia:tablet>galería:tablet>contactos:index:historia:galería:contactos:cultura-y-gastronomía:eventos-y-festivales:arquitectura:sitios-turísticos:gracias"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>historia:phone>galería:phone>contactos:tablet>index:tablet>historia:tablet>galería:tablet>contactos:index:historia:galería:contactos:cultura-y-gastronomía:eventos-y-festivales:arquitectura:sitios-turísticos:gracias"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>historia:phone>galería:phone>contactos:tablet>index:tablet>historia:tablet>galería:tablet>contactos:index:historia:galería:contactos:cultura-y-gastronomía:eventos-y-festivales:arquitectura:sitios-turísticos:gracias"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="phone>index:phone>historia:phone>galería:phone>contactos:tablet>index:tablet>historia:tablet>galería:tablet>contactos:index:historia:galería:contactos:cultura-y-gastronomía:eventos-y-festivales:arquitectura:sitios-turísticos:gracias"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>index:phone>historia:phone>galería:phone>contactos:tablet>index:tablet>historia:tablet>galería:tablet>contactos:historia:contactos:eventos-y-festivales:arquitectura:sitios-turísticos"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="phone>index:phone>historia:phone>galería:phone>contactos:tablet>index:tablet>historia:tablet>galería:tablet>contactos"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>historia:phone>galería:phone>contactos:tablet>index:tablet>historia:tablet>galería:tablet>contactos:index:historia:galería:contactos:cultura-y-gastronomía:eventos-y-festivales:arquitectura:sitios-turísticos:gracias"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>index:phone>historia:phone>galería:phone>contactos:tablet>index:tablet>historia:tablet>galería:tablet>contactos:index:historia:galería:contactos:cultura-y-gastronomía:eventos-y-festivales:arquitectura:sitios-turísticos:gracias"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>historia:phone>galería:phone>contactos:tablet>index:tablet>historia:tablet>galería:tablet>contactos:index:historia:galería:contactos:cultura-y-gastronomía:eventos-y-festivales:arquitectura:sitios-turísticos:gracias"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>historia:phone>galería:phone>contactos:tablet>index:tablet>historia:tablet>galería:tablet>contactos:index:historia:galería:contactos:cultura-y-gastronomía:eventos-y-festivales:arquitectura:sitios-turísticos:gracias"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="phone>historia:phone>galería:tablet>historia:tablet>galería:historia:eventos-y-festivales:arquitectura:sitios-turísticos"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="phone>historia:phone>galería:tablet>historia:tablet>galería:historia:eventos-y-festivales:arquitectura:sitios-turísticos"/>
+    <file name="touchswipe.js" crc="3888935200" ref="phone>historia:phone>galería:tablet>historia:tablet>galería:historia:eventos-y-festivales:arquitectura:sitios-turísticos"/>
+    <file name="form_check.php" crc="4108222811" ref="phone>contactos"/>
+    <file name="form_throttle.php" crc="503802655" ref="phone>contactos"/>
+    <file name="form_process.php" crc="260214869" ref="phone>contactos"/>
+    <file name="form-u6811.php" crc="4188007907" ref="phone>contactos"/>
+    <file name="form-u9645.php" crc="517382329" ref="tablet>contactos"/>
+    <file name="form-u2235.php" crc="32401842" ref="contactos"/>
+  </folder>
+  <folder name="images">
+    <file name="recurso 3.png" crc="212784608" seo="true" ref="phone>index:phone>historia:phone>galería:phone>contactos:tablet>index:tablet>historia:tablet>galería:tablet>contactos:index:historia:galería:contactos:cultura-y-gastronomía:eventos-y-festivales:arquitectura:sitios-turísticos:gracias">
+      <caption webpage="eventos-y-festivales" alt=""/>
+      <caption webpage="cultura-y-gastronomía" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="arquitectura" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sitios-turísticos" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="galería" alt=""/>
+      <caption webpage="galería" alt=""/>
+      <caption webpage="galería" alt=""/>
+      <caption webpage="gracias" alt=""/>
+    </file>
+    <file name="house.png" crc="3936478572" seo="true" ref="phone>index:phone>historia:phone>galería:phone>contactos:tablet>index:tablet>historia:tablet>galería:tablet>contactos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="galería" alt=""/>
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="recurso 1000000-crop-u6323.png" crc="48701910" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="young-adults-enjoy-traditional-festival-dancing-outdoors-generated-by-ai-crop-u4388.png" crc="4288745545" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 1000000-crop-u6335.png" crc="3775603005" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sin-título-1.gif" crc="182231667" ref="phone>index:phone>historia:phone>galería:phone>contactos:tablet>index:tablet>historia:tablet>galería:tablet>contactos:index:historia:galería:contactos:sitios-turísticos:gracias">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sitios-turísticos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="galería" alt=""/>
+      <caption webpage="galería" alt=""/>
+      <caption webpage="galería" alt=""/>
+      <caption webpage="gracias" alt=""/>
+    </file>
+    <file name="mi vieja quilñla.jpg" crc="4217631031" ref="phone>historia:tablet>historia:historia">
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="prado viejo.jpg" crc="3996231462" ref="phone>historia:tablet>historia:historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="recurso 1000000160x320.png" crc="203033457" seo="true" ref="phone>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="freepik_br_3421a5fd-a0a7-4bf3-84ff-cafec9af2cad-crop-u6389.png" crc="427568707" seo="true" ref="phone>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="recurso 4176x91.png" crc="61547547" seo="true" ref="phone>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="tasty-food-arrangement-top-view-crop-u6391.png" crc="3775367551" seo="true" ref="phone>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="recurso 15107x82.png" crc="195791671" seo="true" ref="phone>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="recurso 6.png" crc="496687685" seo="true" ref="phone>historia:tablet>historia:cultura-y-gastronomía">
+      <caption webpage="historia" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="cultura-y-gastronomía" alt=""/>
+    </file>
+    <file name="recurso 196x76.png" crc="3958222230" seo="true" ref="phone>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="recurso90352x98.png" crc="4156347010" seo="true" ref="phone>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="carnaval 2-u6518-fr.jpg" crc="4063351861" ref="phone>historia"/>
+    <file name="jj-u6519-fr.jpg" crc="262040240" ref="phone>historia"/>
+    <file name="asas-u6517-fr.jpg" crc="4235759501" ref="phone>historia"/>
+    <file name="as-u6536-a-fr.jpg" crc="4206830459" ref="phone>historia"/>
+    <file name="grffg-u6537-a-fr.jpg" crc="4098956786" ref="phone>historia"/>
+    <file name="as-u6532-fr.jpg" crc="515362048" ref="phone>historia"/>
+    <file name="grffg-u6531-fr.jpg" crc="3977789696" ref="phone>historia"/>
+    <file name="recurso 5-crop-u6623.png" crc="259418075" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="recurso 00169x50.png" crc="3833561137" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="foto 4-u6643-a-fr.jpg" crc="4053126942" ref="phone>galería:tablet>galería"/>
+    <file name="foto 4-u6642-a-fr.jpg" crc="484926497" ref="phone>galería:tablet>galería"/>
+    <file name="foto 2-u6644-a-fr.jpg" crc="3966166543" ref="phone>galería:tablet>galería"/>
+    <file name="foto 1-u6638-fr.jpg" crc="3905716652" ref="phone>galería"/>
+    <file name="foto 4-u6640-fr.jpg" crc="3948951092" ref="phone>galería"/>
+    <file name="foto 2-u6639-fr.jpg" crc="97466818" ref="phone>galería"/>
+    <file name="plaza-san-nicolas-u6702-fr.jpg" crc="230673200" ref="phone>galería"/>
+    <file name="barranquilla_01488-e1526962960257301x168.jpg" crc="3775301681" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>galería:tablet>galería:sitios-turísticos"/>
+    <file name="malecon275x182.jpg" crc="454999756" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="ceniza_0299x168.jpg" crc="66357338" seo="true" ref="phone>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>galería:tablet>galería:sitios-turísticos"/>
+    <file name="recurso 1000000-crop-u7050.png" crc="95064587" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="young-adults-enjoy-traditional-festival-dancing-outdoors-generated-by-ai-crop-u7053.png" crc="3813357689" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 1000000-crop-u7058.png" crc="191931999" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 4400x208.png" crc="87288566" seo="true" ref="tablet>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="recurso 1000000278x555.png" crc="169923922" seo="true" ref="tablet>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="freepik_br_3421a5fd-a0a7-4bf3-84ff-cafec9af2cad-crop-u8595.png" crc="4207531144" seo="true" ref="tablet>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="tasty-food-arrangement-top-view-crop-u8620.png" crc="201819621" seo="true" ref="tablet>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="recurso 15188x144.png" crc="4100855306" seo="true" ref="tablet>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="recurso 1160x127.png" crc="170489608" seo="true" ref="tablet>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="recurso90570x158.png" crc="4195480520" seo="true" ref="tablet>historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="carnaval 2-u9263-fr.jpg" crc="4062579017" ref="tablet>historia"/>
+    <file name="jj-u9262-fr.jpg" crc="3977056769" ref="tablet>historia"/>
+    <file name="asas-u9261-fr.jpg" crc="4190610098" ref="tablet>historia"/>
+    <file name="as-u9368-a-fr.jpg" crc="460496226" ref="tablet>historia"/>
+    <file name="grffg-u9367-a-fr.jpg" crc="227662143" ref="tablet>historia"/>
+    <file name="as-u9362-fr.jpg" crc="3788987489" ref="tablet>historia"/>
+    <file name="grffg-u9363-fr.jpg" crc="4254245110" ref="tablet>historia"/>
+    <file name="recurso 5-crop-u9405.png" crc="4148162828" seo="true" ref="tablet>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="recurso 00287x84.png" crc="3816233358" seo="true" ref="tablet>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="foto 1-u9425-fr.jpg" crc="196890416" ref="tablet>galería"/>
+    <file name="foto 4-u9426-fr.jpg" crc="4132460117" ref="tablet>galería"/>
+    <file name="foto 2-u9427-fr.jpg" crc="3932717297" ref="tablet>galería"/>
+    <file name="plaza-san-nicolas-u9561-fr.jpg" crc="4081107751" ref="tablet>galería"/>
+    <file name="barranquilla_01488-e1526962960257561x314.jpg" crc="4162614927" seo="true" ref="tablet>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="malecon-crop-u9559.jpg" crc="248527896" seo="true" ref="tablet>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="ceniza_0561x316.jpg" crc="324593457" seo="true" ref="tablet>galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="u3806-4.png" crc="148885295" ref="index"/>
+    <file name="young-adults-enjoy-traditional-festival-dancing-outdoors-generated-by-ai-crop-u3664.png" crc="4107593051" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 5-crop-u1957.png" crc="4070737391" seo="true" ref="galería">
+      <caption webpage="galería" alt=""/>
+    </file>
+    <file name="freepik_br_3421a5fd-a0a7-4bf3-84ff-cafec9af2cad.png" crc="247083497" seo="true" ref="cultura-y-gastronomía">
+      <caption webpage="cultura-y-gastronomía" alt=""/>
+    </file>
+    <file name="tasty-food-arrangement-top-view.png" crc="3793629465" seo="true" ref="cultura-y-gastronomía">
+      <caption webpage="cultura-y-gastronomía" alt=""/>
+    </file>
+    <file name="recurso 1.png" crc="3880165375" seo="true" ref="cultura-y-gastronomía">
+      <caption webpage="cultura-y-gastronomía" alt=""/>
+    </file>
+    <file name="recurso 15.png" crc="236716390" seo="true" ref="cultura-y-gastronomía">
+      <caption webpage="cultura-y-gastronomía" alt=""/>
+    </file>
+    <file name="recurso 4.png" crc="87288566" seo="true" ref="cultura-y-gastronomía">
+      <caption webpage="cultura-y-gastronomía" alt=""/>
+    </file>
+    <file name="lkfdskdsfkod.jpg" crc="4164612811" ref="cultura-y-gastronomía:eventos-y-festivales:arquitectura">
+      <caption webpage="eventos-y-festivales" alt=""/>
+      <caption webpage="cultura-y-gastronomía" alt=""/>
+      <caption webpage="arquitectura" alt=""/>
+    </file>
+    <file name="recurso90.png" crc="4195480520" seo="true" ref="eventos-y-festivales">
+      <caption webpage="eventos-y-festivales" alt=""/>
+    </file>
+    <file name="asas-u2041-a-fr.jpg" crc="109438730" ref="eventos-y-festivales"/>
+    <file name="jj.jpg" crc="4261181333" ref="eventos-y-festivales">
+      <caption webpage="eventos-y-festivales" alt=""/>
+    </file>
+    <file name="asas-u2045-fr.jpg" crc="184823295" ref="eventos-y-festivales"/>
+    <file name="carnaval 2.jpg" crc="4261217875" ref="eventos-y-festivales">
+      <caption webpage="eventos-y-festivales" alt=""/>
+    </file>
+    <file name="as-u2139-a-fr.jpg" crc="3851628807" ref="eventos-y-festivales"/>
+    <file name="grffg-u2218-a-fr.jpg" crc="4105991367" ref="eventos-y-festivales"/>
+    <file name="as-u2144-fr.jpg" crc="3891202328" ref="eventos-y-festivales"/>
+    <file name="grffg.jpg" crc="3834710725" ref="eventos-y-festivales">
+      <caption webpage="eventos-y-festivales" alt=""/>
+    </file>
+    <file name="foto 4-u1396-a-fr.jpg" crc="311379193" ref="arquitectura"/>
+    <file name="foto 4-u1398-a-fr.jpg" crc="4174032309" ref="arquitectura"/>
+    <file name="foto 2-u1397-a-fr.jpg" crc="4069507611" ref="arquitectura"/>
+    <file name="foto 1.jpg" crc="3947516843" ref="arquitectura">
+      <caption webpage="arquitectura" alt=""/>
+    </file>
+    <file name="foto 4-u1393-fr.jpg" crc="8281316" ref="arquitectura"/>
+    <file name="foto 2-u1394-fr.jpg" crc="4269582251" ref="arquitectura"/>
+    <file name="recurso 00.png" crc="3816233358" seo="true" ref="arquitectura">
+      <caption webpage="arquitectura" alt=""/>
+    </file>
+    <file name="plaza-san-nicolas-u3140-fr.jpg" crc="313502327" ref="sitios-turísticos"/>
+    <file name="barranquilla_01488-e1526962960257.jpg" crc="396701353" seo="true" ref="sitios-turísticos">
+      <caption webpage="sitios-turísticos" alt=""/>
+    </file>
+    <file name="malecon-crop-u3279.jpg" crc="4289618902" seo="true" ref="sitios-turísticos">
+      <caption webpage="sitios-turísticos" alt=""/>
+    </file>
+    <file name="ceniza_0.jpg" crc="354678101" seo="true" ref="sitios-turísticos">
+      <caption webpage="sitios-turísticos" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-p_g_-maestra.css" crc="340536689" ref="tablet>galería:tablet>contactos:tablet>historia:tablet>index"/>
+      <file name="galer_a.css" crc="165032365" ref="tablet>galería"/>
+      <file name="contactos.css" crc="3953824007" ref="tablet>contactos"/>
+      <file name="historia.css" crc="4281222250" ref="tablet>historia"/>
+      <file name="index.css" crc="58381564" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="158093478" seo="true" mt="1747853322789" redirect="true"/>
+    <file name="historia.html" crc="3875354588" seo="true" mt="1747859339698" redirect="true"/>
+    <file name="galería.html" crc="4180061931" seo="true" mt="1748001663645" redirect="true"/>
+    <file name="contactos.html" crc="4011346327" seo="true" mt="1748002280532" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-p_g_-maestra.css" crc="123227014" ref="phone>historia:phone>galería:phone>contactos:phone>index"/>
+      <file name="historia.css" crc="370411229" ref="phone>historia"/>
+      <file name="galer_a.css" crc="4210565860" ref="phone>galería"/>
+      <file name="contactos.css" crc="3797549954" ref="phone>contactos"/>
+      <file name="index.css" crc="1587052" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3937772290" seo="true" mt="1747779860432" redirect="true"/>
+    <file name="historia.html" crc="4074498138" seo="true" mt="1747859059456" redirect="true"/>
+    <file name="galería.html" crc="129125902" seo="true" mt="1747778936419" redirect="true"/>
+    <file name="contactos.html" crc="381615459" seo="true" mt="1747778936462" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3919168732" seo="true" mt="1747778936506" redirect="true"/>
+  <file name="historia.html" crc="4188239003" seo="true" mt="1747778936506" redirect="true"/>
+  <file name="galería.html" crc="4040261148" seo="true" mt="1747778936507" redirect="true"/>
+  <file name="contactos.html" crc="4011363051" seo="true" mt="1747778936507" redirect="true"/>
+  <file name="cultura-y-gastronomía.html" crc="3878360447" seo="true" mt="1747778157461" redirect="true"/>
+  <file name="eventos-y-festivales.html" crc="285703232" seo="true" mt="1747778157461" redirect="true"/>
+  <file name="arquitectura.html" crc="4228741987" seo="true" mt="1747778157461" redirect="true"/>
+  <file name="sitios-turísticos.html" crc="282865779" seo="true" mt="1747778157461" redirect="true"/>
+  <file name="gracias.html" crc="396335564" seo="true" mt="1747778157461" redirect="true"/>
+</manifest>
